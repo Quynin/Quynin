@@ -1,4 +1,9 @@
-## Hi there 👋
+## ✨ Hi there ✨
+# I'm Cassiopeia
+### a fourth-year CS student at the University of Ottawa.
+This GitHub hosts my favourite school and personal projects.
+Check them out pinned below!
+
 
 <!--
 **Quynin/Quynin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
