@@ -1,6 +1,6 @@
 ## ✨ Hi there ✨
 # I'm Cassiopeia
-### a fourth-year CS student at the University of Ottawa.
+### a fifth-year CS Honours student at the University of Ottawa.
 This GitHub hosts my favourite school and personal projects.
 Check them out pinned below!
 
